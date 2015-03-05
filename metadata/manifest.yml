@@ -5,6 +5,7 @@ Display-Name: PHP 5.4
 Description: PHP is a general-purpose server-side scripting language originally designed
   for Web development to produce dynamic Web pages. Popular development frameworks
   include CakePHP, Zend, Symfony, and Code Igniter.
+Source-Url: https://github.com/openshift-qe/ccyphp.git
 Version: '5.4'
 Provides:
 - php-5.4
